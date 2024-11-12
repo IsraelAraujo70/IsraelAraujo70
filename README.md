@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Israel
-Desenvolvedor Full Stack com experiência em projetos de desenvolvimento web e automações administrativas. Trabalho com Python, JavaScript, Vue.js e React.js. Focado em soluções práticas, desenvolvo projetos que trazem eficiência e inovação.
+Desenvolvedor Full Stack com experiência em projetos de desenvolvimento web e automações administrativas. Trabalho com Python, JavaScript, TypeScript, Next.js, Vue.js e React.js. Focado em soluções práticas, desenvolvo projetos que trazem eficiência e inovação.
 
 
 ### Detalhes
