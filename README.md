@@ -1,32 +1,47 @@
-### Olá 👋
+# Hi, I'm Israel Araújo 👋
 
-###### Sobre o Israel
-Desenvolvedor Full Stack com experiência em projetos de desenvolvimento web e automações administrativas. Trabalho com Python, JavaScript, TypeScript, Next.js, Vue.js e React.js. Focado em soluções práticas, desenvolvo projetos que trazem eficiência e inovação.
+Full-stack software engineer building production products end to end, from product discovery and interface design to backend architecture, cloud infrastructure, deployment, and observability.
 
+I work primarily with **Rust, TypeScript, Python, React, Next.js, PostgreSQL, AWS, Docker, and Terraform**. I enjoy products where software architecture, developer experience, and real user needs meet.
 
-### Detalhes
+[Portfolio](https://portfolio.israeldeveloper.com.br) · [LinkedIn](https://www.linkedin.com/in/araisr/) · [Email](mailto:israelaraujodeoliveira@gmail.com) · [Résumé](https://github.com/IsraelAraujo70/curriculum)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelAraujo70&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Featured work
 
-### Linguagens utilizadas
+### [Reason](https://reason.israeldeveloper.com.br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelAraujo70&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+A production collaborative workspace with a block-based editor, real-time synchronization, workspace permissions, full-text and semantic search, AI-assisted writing, public links, inline databases, and authenticated MCP access.
 
-### Contatos
+**Stack:** Rust, Next.js, TypeScript, PostgreSQL, pgvector, WebSocket, S3-compatible storage, Docker, and Railway.
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/araisr/)
+### [Drive Clone](https://github.com/IsraelAraujo70/drive-clone)
 
-<!--
-**IsraelAraujo70/IsraelAraujo70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A production-grade cloud storage product with resumable multipart uploads, folders, sharing, search, trash and restore, public links, a cursor-based sync API, quota enforcement, and background cleanup jobs.
 
-Here are some ideas to get you started:
+**Stack:** Rust, Axum, Next.js, TypeScript, PostgreSQL, S3-compatible storage, Docker, Cypress, and Railway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Live application](https://drive.israeldeveloper.com.br) · [Source code](https://github.com/IsraelAraujo70/drive-clone)
+
+### [Prism](https://github.com/IsraelAraujo70/prism)
+
+A native desktop client for GitHub pull requests with notification management, CI visibility, review workflows, native tray integration, and cross-platform releases.
+
+**Stack:** Rust, Tauri, React, TypeScript, SQLite, and GitHub APIs.
+
+### [Relaciona Brasil](https://github.com/IsraelAraujo70/relaciona-brasil)
+
+An open-source API for exploring relationships between Brazilian companies and people using public Receita Federal data. It uses asynchronous jobs, indexed archive lookup, caching, and scheduled ingestion to process a dataset with tens of millions of records.
+
+**Stack:** Rust, Axum, PostgreSQL, Docker, GitHub Actions, and Cloudflare.
+
+## What I care about
+
+- Shipping useful products, not isolated demos.
+- Clear service boundaries and typed contracts.
+- Authorization, observability, tests, and operational reliability.
+- AI features that follow the same product and security rules as human actions.
+- Infrastructure that can be understood, reproduced, and maintained.
+
+## Current focus
+
+Building full-stack and AI-enabled products for international teams, with hands-on ownership across frontend, backend, infrastructure, and delivery.
