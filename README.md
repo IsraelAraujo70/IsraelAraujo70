@@ -1,71 +1,67 @@
-# Hi, I'm Israel Araújo 👋
+<div align="center">
 
-**Full Stack & AI Software Engineer** building production SaaS, integration-heavy platforms, and event-driven systems.
+# Israel Araújo
 
-I work across product, backend, cloud infrastructure, and delivery, with a primary focus on **TypeScript, Node.js, Python, AWS, serverless architecture, and applied AI**. I enjoy turning complex workflows into reliable products that teams can operate and evolve.
+**Full Stack & AI Software Engineer**
+
+Production SaaS, event-driven systems, integrations, and applied AI.
 
 [Portfolio](https://portfolio.israeldeveloper.com.br) · [LinkedIn](https://www.linkedin.com/in/araisr/) · [Résumé](https://github.com/IsraelAraujo70/curriculum) · [Email](mailto:israelaraujodeoliveira@gmail.com)
 
-## What I build in production
+</div>
 
-- Full-stack products with **TypeScript, Node.js, Next.js, React, and Python**.
-- Serverless and event-driven workloads with **AWS Lambda, DynamoDB, SQS, SNS, S3, and Terraform**.
-- Multi-tenant SaaS platforms with granular authorization, auditability, external integrations, and asynchronous workflows.
-- AI-assisted document pipelines with schema-based extraction, validation, and explicit human-review paths.
-- Systems backed by automated tests, CI/CD, observability, and reproducible infrastructure.
+## About
 
-I currently work on a production messaging platform at **ComicConnect**, using TypeScript, Next.js, AWS Lambda, DynamoDB, SQS FIFO, Terraform, and Twilio. Previously, I built Python and AWS services for a financial SaaS platform, including an integration engine connecting more than 10 banking, government, and accounting providers.
+I'm a mid-level full-stack and backend engineer with 3+ years of professional experience building software with **TypeScript, Node.js, Python, and AWS**. I work across product development, APIs, cloud infrastructure, testing, observability, and delivery.
 
-## Selected product work
+I focus on integration-heavy SaaS, asynchronous workflows, and applied AI features that remain reliable in production. I was promoted from junior to mid-level in four months and later trusted with technical leadership, architecture, code review, and mentoring responsibilities.
+
+## Core stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,aws,nextjs,react,postgres,rust,terraform,docker&perline=10" alt="TypeScript, Node.js, Python, AWS, Next.js, React, PostgreSQL, Rust, Terraform, and Docker" />
+</p>
+
+**TypeScript · Node.js · Python · AWS · Next.js · React · PostgreSQL · DynamoDB · SQS · Terraform · Docker · Rust**
+
+## Production experience
+
+- At **ComicConnect**, I build and operate a messaging platform with TypeScript, Next.js, AWS Lambda, DynamoDB, SQS FIFO, Terraform, Twilio, and a shared-domain monorepo.
+- At **GarantiaBR**, I built Python and AWS services for a multi-tenant financial SaaS platform, including an integration engine connecting more than 10 banking, government, and accounting providers.
+- My work includes event-driven billing, granular authorization, audit logging, observability, automated testing, CI/CD, and LLM-assisted document processing with human-review paths.
+
+## Selected projects
 
 ### [Reason](https://reason.israeldeveloper.com.br)
 
-A collaborative, block-based workspace with real-time synchronization, AI-assisted writing, semantic search, inline databases, workspace permissions, public links, and authenticated MCP access.
+A collaborative workspace for organizing knowledge, working in real time, and using AI inside the same permission-aware operation model as human edits.
 
-**Engineering evidence:** typed operation contracts, durable collaboration flows, shared web and Android business rules, PostgreSQL + pgvector search, and production deployment on Railway.
-
-**Stack:** Rust, Next.js, TypeScript, PostgreSQL, pgvector, WebSockets, SSE, S3-compatible storage, Docker, and Railway.
+`Next.js` `TypeScript` `Rust` `PostgreSQL` `pgvector` `WebSockets`
 
 [Live application](https://reason.israeldeveloper.com.br) · [Source code](https://github.com/IsraelAraujo70/notion-clone)
 
 ### [Drive Clone](https://drive.israeldeveloper.com.br)
 
-A production-grade cloud storage product with authentication, folders, resumable multipart uploads, sharing, search, public links, trash and restore, quota enforcement, cursor-based synchronization, and background cleanup jobs.
+A cloud storage product with authorization, resumable multipart uploads, sharing, search, quota enforcement, synchronization, and background cleanup jobs.
 
-**Engineering evidence:** explicit authorization boundaries, resumable transfer workflows, S3-compatible storage, background processing, end-to-end tests, and Railway-first deployment.
-
-**Stack:** Rust, Axum, Next.js, TypeScript, PostgreSQL, S3-compatible storage, Docker, Cypress, and Railway.
+`Rust` `Axum` `Next.js` `TypeScript` `PostgreSQL` `S3` `Cypress`
 
 [Live application](https://drive.israeldeveloper.com.br) · [Source code](https://github.com/IsraelAraujo70/drive-clone)
 
 ### [Engineering Portfolio](https://portfolio.israeldeveloper.com.br)
 
-An interactive macOS/iOS-inspired portfolio that presents production experience, selected work, open-source contributions, and an AI résumé assistant in a responsive desktop and mobile interface.
+An interactive portfolio that helps recruiters explore production experience, selected work, open-source contributions, and an AI résumé assistant across desktop and mobile layouts.
 
-**Engineering evidence:** device-specific rendering, deferred application bundles, recruiter-oriented content, accessibility-aware interactions, automated positioning checks, and production deployment.
-
-**Stack:** Next.js 16, React 19, TypeScript, AI SDK, Tailwind CSS, SQLite, Docker, and Railway.
+`Next.js` `React` `TypeScript` `AI SDK` `Tailwind CSS` `SQLite` `Docker`
 
 [Live application](https://portfolio.israeldeveloper.com.br) · [Source code](https://github.com/IsraelAraujo70/portfolio-3)
 
-## More open-source work
+## Currently
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Prism](https://github.com/IsraelAraujo70/prism) | Native GitHub pull-request workflows with Tauri, React, TypeScript, Rust, SQLite, notifications, and CI visibility. |
-| [Relaciona Brasil](https://github.com/IsraelAraujo70/relaciona-brasil) | Async data processing, indexed public datasets, job orchestration, and PostgreSQL caching in Rust. |
-| [Bytesmith](https://github.com/IsraelAraujo70/bytesmith) | A desktop client for local AI coding agents with tool streaming, permission controls, terminal access, Go, React, and Wails. |
+- Building and operating production messaging workflows at **ComicConnect**.
+- Developing full-stack, backend, and applied AI products with explicit authorization and failure handling.
+- Open to **international remote opportunities** as a Full Stack, Backend, or AI Software Engineer.
 
-## How I work
-
-- Start from the product workflow and model the failure modes before the happy path.
-- Keep contracts typed, service boundaries explicit, and infrastructure reproducible.
-- Treat authorization, observability, testing, and operational recovery as product requirements.
-- Use AI where it improves the workflow without bypassing security or human control.
-- Prefer measurable production evidence over long lists of technologies.
-
-## Let's talk
-
-I'm open to **international remote opportunities** as a Full Stack, Backend, or AI Software Engineer. I work in Portuguese and advanced English.
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/araisr/) · [Portfolio](https://portfolio.israeldeveloper.com.br) · [Email](mailto:israelaraujodeoliveira@gmail.com)
